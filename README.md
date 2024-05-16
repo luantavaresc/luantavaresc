@@ -1,15 +1,11 @@
 ### Olá 
 ### Eu sou Luan
 
-- Atualmente Estudando desenvolvimento Front-end.
-- Focado no momento em JavaScript e React. 
+- Possuo foco atualmente em Python e suas bibliotecas de manipulação de dados, estatística e Machine Learning.
+- Pandas, Numpy, Matplotlib, Seaborn e Sckit-learn e SQL para análise de dados 
 - Gosto de tecnologia e Esportes :)
+- Ciclista e Lutador de MMA
 
- <div>
-  <a href="https://github.com/luantavaresc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luantavaresc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luantavaresc&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  ### Contact
 <a href="https://www.linkedin.com/in/luan-tavares-01971619a" target="_blank">
