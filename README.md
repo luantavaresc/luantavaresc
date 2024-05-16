@@ -11,6 +11,5 @@
 <a href="https://www.linkedin.com/in/luan-tavares-01971619a" target="_blank">
 <img align="center" alt="Luan-Linkdin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;">
 </a>
-  
- ### Skills
- [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,typescript,react&theme=light)](https://skills.thijs.gg)
+
+
